@@ -17,6 +17,7 @@
 		3A88009D2B490B6100A3640C /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A88009C2B490B6100A3640C /* Theme.swift */; };
 		3A88009F2B490C1200A3640C /* DailyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A88009E2B490C1200A3640C /* DailyScrum.swift */; };
 		3A8800A72B490E4E00A3640C /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A8800A62B490E4E00A3640C /* CardView.swift */; };
+		3A8800A92B490FA800A3640C /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A8800A82B490FA800A3640C /* TrailingIconLabelStyle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		3A88009C2B490B6100A3640C /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
 		3A88009E2B490C1200A3640C /* DailyScrum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScrum.swift; sourceTree = "<group>"; };
 		3A8800A62B490E4E00A3640C /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		3A8800A82B490FA800A3640C /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,7 @@
 				3A441D332B458A4000DB2FC8 /* Scrumdinger.entitlements */,
 				3A441D342B458A4000DB2FC8 /* Preview Content */,
 				3A8800A62B490E4E00A3640C /* CardView.swift */,
+				3A8800A82B490FA800A3640C /* TrailingIconLabelStyle.swift */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
@@ -277,6 +280,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3A88009F2B490C1200A3640C /* DailyScrum.swift in Sources */,
+				3A8800A92B490FA800A3640C /* TrailingIconLabelStyle.swift in Sources */,
 				3A88009D2B490B6100A3640C /* Theme.swift in Sources */,
 				3A441D302B458A3F00DB2FC8 /* MeetingView.swift in Sources */,
 				3A441D2E2B458A3F00DB2FC8 /* ScrumdingerApp.swift in Sources */,
