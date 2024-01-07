@@ -20,6 +20,7 @@
 		3A8800A92B490FA800A3640C /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A8800A82B490FA800A3640C /* TrailingIconLabelStyle.swift */; };
 		3AB76CE22B4980E7000FD18C /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AB76CE12B4980E7000FD18C /* ScrumsView.swift */; };
 		3AB76CE72B498C51000FD18C /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AB76CE62B498C51000FD18C /* DetailView.swift */; };
+		3AB76CE92B4ABCC7000FD18C /* DetailEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AB76CE82B4ABCC7000FD18C /* DetailEditView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,7 @@
 		3A8800A82B490FA800A3640C /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
 		3AB76CE12B4980E7000FD18C /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 		3AB76CE62B498C51000FD18C /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		3AB76CE82B4ABCC7000FD18C /* DetailEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailEditView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -159,6 +161,7 @@
 				3A8800A82B490FA800A3640C /* TrailingIconLabelStyle.swift */,
 				3AB76CE12B4980E7000FD18C /* ScrumsView.swift */,
 				3AB76CE62B498C51000FD18C /* DetailView.swift */,
+				3AB76CE82B4ABCC7000FD18C /* DetailEditView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -295,6 +298,7 @@
 			files = (
 				3A88009F2B490C1200A3640C /* DailyScrum.swift in Sources */,
 				3AB76CE72B498C51000FD18C /* DetailView.swift in Sources */,
+				3AB76CE92B4ABCC7000FD18C /* DetailEditView.swift in Sources */,
 				3A8800A92B490FA800A3640C /* TrailingIconLabelStyle.swift in Sources */,
 				3A88009D2B490B6100A3640C /* Theme.swift in Sources */,
 				3AB76CE22B4980E7000FD18C /* ScrumsView.swift in Sources */,
